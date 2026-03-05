@@ -1,0 +1,12 @@
+total 60
+-rw-rw-r-- 1 ubuntu ubuntu   778 Mar  5 00:46 README.md
+-rw-rw-r-- 1 ubuntu ubuntu   217 Mar  5 00:36 UNCOPYRIGHT
+drwxrwxr-x 2 ubuntu ubuntu  4096 Mar  5 00:36 css
+-rw-rw-r-- 1 ubuntu ubuntu  4562 Mar  5 00:36 favicon.png
+-rw-rw-r-- 1 ubuntu ubuntu  2041 Mar  5 00:36 index.css
+-rw-rw-r-- 1 ubuntu ubuntu 18515 Mar  5 00:46 index.html
+drwxrwxr-x 2 ubuntu ubuntu  4096 Mar  5 00:36 js
+-rw-rw-r-- 1 ubuntu ubuntu     0 Mar  5 00:47 lista_dir.txt
+drwxrwxr-x 9 ubuntu ubuntu  4096 Mar  5 00:36 play
+drwxrwxr-x 2 ubuntu ubuntu  4096 Mar  5 00:36 social
+drwxrwxr-x 4 ubuntu ubuntu  4096 Mar  5 00:36 translator
